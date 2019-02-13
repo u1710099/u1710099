@@ -1,0 +1,33 @@
+body
+{
+	background: url(s.jpg) no-repeat center center fixed;
+         -webkit- background-size:cover;
+	-moz- background-size:cover; 
+
+	background-size:cover;
+
+    text-align:center;
+}
+
+h3
+{
+color:blue;
+text-align: center;
+}
+
+a 
+{ color:green;
+    font-family: yellow;
+    font-size: 20px;
+}
+li
+{
+	color: yellow;
+	font-family: yellow;
+	
+}
+p 
+{
+    color:lightblue;
+    text-align: center;
+}
